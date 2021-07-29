@@ -1,0 +1,17 @@
+Overall I had a positive experience but first workshop was very hard to start semester with. Ten minutes for the first quiz 
+was a surprise too. In Autumn semester professor explained the lab part so it was very hard to do lab part in this one because
+Cornel left it to us to figure out. Only after Midterm it became a bit easier because of coding experience. Having a quiz 
+before the lecture on material was a big challenge too. Because of thet visiting lecture did not make sense and overall 
+experience of the course is a self study. Quizes proved to be having things beyond reading materials so I lost a lot of 
+marks before I found that out and started reading books for the quiz. I wish there were some videos as in first semester.
+I studied 24/7 and still had difficulties with time. I feel exhausted and stressed out. I had nervous tic of my left eye after midterm.
+I wish teaching was somehow more effective so I could have learned all this without so much stress. Midterm had little time to complete.
+I wish there was autofiller for matrix because it takes time to debug with matrix testing. Reading week did not give rest 
+because we had assignments for it that took all the time. Sometimes I had to use night time to complete assignments before 
+the deadline and sleep schedule had been broken several times. Saturday and Sunday we used for quiz preparation and did not
+give rest too. Overall wish is to make course more effective because I had to self study a lot.
+
+In the final project I used C string instead of a stirng class in hope for a bonus. I also rewrote Time class calculations several times
+to make them more effective in speed. Before I had temporal object declaration in some of them to change data of the const values for 
+calculation. Then I discovered that creating additional objects and assignment operator is costly in C++ because assignment
+operator does not allow "aggressive optimisations". I read about it on one C++ forum. 
