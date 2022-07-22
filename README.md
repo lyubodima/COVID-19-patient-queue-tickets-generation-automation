@@ -1,4 +1,4 @@
-"# cpp_seneca" 
+"# cpp first-year course assignment at seneca" 
 
 Because of the pandemic and prevention of the spread of COVID19, hospitals need
 to screen the patients and separate those in need of COVID-test from others. This
